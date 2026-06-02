@@ -141,9 +141,6 @@ Um workflow retorna múltiplos itens — o Telegram node itera e envia cada mens
 
 ---
 
-## 📄 Licença
-
-MIT License — sinta-se livre para usar, modificar e distribuir.
 
 ---
 
