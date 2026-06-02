@@ -89,36 +89,6 @@ DELIVERY LAYER
 
 ---
 
-## 🚀 Como Configurar
-
-### Pré-requisitos
-- n8n instalado (self-hosted ou cloud)
-- Conta Google com acesso à API do Sheets
-- Bot no Telegram criado via [@BotFather](https://t.me/BotFather)
-- VPS com n8n rodando (recomendado: Hetzner CX11 ~€4/mês)
-
-### Passo a passo
-
-1. **Clone o repositório**
-```bash
-git clone https://github.com/seu-usuario/billtracker-automation.git
-```
-
-2. **Importe os workflows no n8n**
-   - Abra o n8n → menu → Import from File
-   - Importe `daily-alert.json` e `weekly-summary.json`
-
-3. **Configure as credenciais**
-   - Google Sheets: autentique via OAuth2 nas credenciais do n8n
-   - Telegram: insira o token do bot e seu Chat ID
-
-4. **Obter o Chat ID do Telegram**
-```
-https://api.telegram.org/bot<SEU_TOKEN>/getUpdates
-```
-   Mande uma mensagem pro bot e o `chat.id` aparecerá no resultado.
-
-5. **Ative os workflows** e aguarde o próximo disparo ou execute manualmente para testar.
 
 ---
 
