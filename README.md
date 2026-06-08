@@ -5,10 +5,10 @@
 
 <h2>⚙️ Workflow no n8n</h2>
 
-<a href="./assets/print-n8n.png">
+<a href="./assets/n8n.jpeg">
   <img 
-  src="./assets/print-n8n.png"
-  width="1000"
+  src="./assets/n8n.jpeg"
+  width="500"
   alt="Workflow n8n"
   />
 </a>
@@ -17,10 +17,10 @@
 
 <h2>📲 Resultado no Telegram</h2>
 
-<a href="./assets/print-telegram.png">
+<a href="./assets/telegram.jpeg">
   <img 
-  src="./assets/print-telegram.png"
-  width="420"
+  src="./assets/telegram.jpeg"
+  width="750"
   alt="Resultado Telegram"
   />
 </a>
