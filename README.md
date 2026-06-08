@@ -1,8 +1,31 @@
 # 📋 BillTracker Automation
 
 > Sistema de monitoramento inteligente de contas a pagar com alertas automáticos via Telegram.
+<div align="center">
 
+<h2>⚙️ Workflow no n8n</h2>
 
+<a href="./assets/print-n8n.png">
+  <img 
+  src="./assets/print-n8n.png"
+  width="1000"
+  alt="Workflow n8n"
+  />
+</a>
+
+<br><br><br>
+
+<h2>📲 Resultado no Telegram</h2>
+
+<a href="./assets/print-telegram.png">
+  <img 
+  src="./assets/print-telegram.png"
+  width="420"
+  alt="Resultado Telegram"
+  />
+</a>
+
+</div>
 
 ---
 
