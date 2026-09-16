@@ -26,7 +26,7 @@
 
 <h2>📲 Resultado no Telegram</h2>
 
-<a href="./assets/telegram.jpeg">
+<a href="./assets/telegram.png">
   <img 
   src="./assets/telegram.png"
   width="420"
