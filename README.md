@@ -66,7 +66,7 @@ O BillTracker resolve isso entregando a informação certa, no momento certo, di
  
 ```
 TRIGGER LAYER
-  └── Schedule Trigger (cron diário 0 8 * * * | semanal 0 8 * * 1)
+  └── Schedule Trigger (cron diário 08:00 | semanal as 08:00)
          │
 DATA LAYER
   └── Google Sheets API (OAuth2)
@@ -89,7 +89,7 @@ DELIVERY LAYER
  
 ## 🔄 Fluxo dos Workflows
  
-### Workflow Diário — `0 8 * * *`
+### Workflow Diário — `08:00*`
  
 ```
 1. Schedule Trigger dispara às 08:00
@@ -102,7 +102,7 @@ DELIVERY LAYER
 8. Telegram node entrega até 2 mensagens ao gestor
 ```
  
-### Workflow Semanal — `0 8 * * 1`
+### Workflow Semanal — `08:00`
  
 ```
 1. Schedule Trigger dispara toda segunda-feira
