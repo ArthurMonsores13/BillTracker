@@ -19,7 +19,7 @@
 
 <a href="./assets/print-telegram.png">
   <img 
-  src="./assets/print-telegram.png"
+  src="./assets/telegram.png"
   width="420"
   alt="Resultado Telegram"
   />
