@@ -1,4 +1,3 @@
-
 # 📊 BillTracker Automation
  
 <p align="center">
@@ -132,7 +131,7 @@ DELIVERY LAYER
 |---|---|---|---|
 | `Mes` | String | Mês de referência | `junho` |
 | `Vencimento` | String | Data no formato DD/MM/YYYY | `15/06/2026` |
-| `Loja` | String | Nome do fornecedor | `FOrnecedor A` |
+| `Loja` | String | Nome do fornecedor | `Fornecedor A` |
 | `Valor` | Number | Valor numérico | `496.25` |
 | `Situação` | String | Status do boleto | `Aberto`, `Pago!` |
 | `Observação` | String | Descrição opcional | `Boleto Único` |
@@ -197,12 +196,11 @@ billtracker-automation/
  
 Tem uma empresa e quer um sistema como esse personalizado para o seu negócio?
  
-**Me manda uma mensagem:** [LinkedIn](https://linkedin.com/in/arthur-monsores-5883061a1) | [Instagram]((https://www.instagram.com/monsoresdev/))
+**Me manda uma mensagem:** [LinkedIn](https://linkedin.com/in/arthur-monsores-5883061a1) | [Instagram](https://www.instagram.com/monsoresdev/)
  
 ---
  
 <p align="center">
-  Feito com ⚡ usando n8n — <em>automatize o que é repetitivo, foque no que importa.</em>
-</p>
+  Feito com ⚡ usando n8n — <em>automatize o que é repetitivo, foque no que importa.</em><br>
   Desenvolvido com n8n + Google Sheets API + Telegram Bot API
 </p>
