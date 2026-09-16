@@ -17,7 +17,7 @@
 <a href="./assets/n8n.jpeg">
   <img 
   src="./assets/n8n.jpeg"
-  width="500"
+  width="700"
   alt="Workflow n8n"
   />
 </a>
@@ -29,7 +29,7 @@
 <a href="./assets/telegram.png">
   <img 
   src="./assets/telegram.png"
-  width="420"
+  width="700"
   alt="Resultado Telegram"
   />
 </a>
